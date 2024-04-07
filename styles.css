@@ -1,0 +1,96 @@
+body { background: rgb(57,225,123);
+       background: linear-gradient(0deg, rgba(57,225,123,1) 0%, rgba(86,135,251,1) 50%, rgba(146,100,222,1) 100%);
+       background-repeat: no-repeat;
+    }
+
+main {
+    font-family: "Poppins", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    color: white;
+    text-align: center;
+}
+
+.cancion {
+    margin: 22px
+}
+
+.container {
+    background-color:#39e17b ;
+    padding: 2px
+}
+
+
+a {
+    color: white;
+    background-color: #9264de;
+    padding: 2px 12px 2px 12px;
+    border-radius: 4px;
+}
+
+.contenidoAlbum {
+    display: flex;  
+    margin:auto
+}
+
+form{
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+}
+
+.containerFormulario {
+    display: flex;
+}
+
+fieldset{
+    background-color: #39e17b; 
+    width: 400px;
+    border-color: white;
+    border-radius: 6px;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+.textoFormulario {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+}
+
+.boton {
+    color: white;
+    background-color: #9264de;
+    padding: 2px 12px 2px 12px;
+    border-radius: 4px;
+}
+
+#descripcion {
+    width: 400px;
+    height: 200px;
+}
+
+.tameImpala {
+    width: 9%
+}
+
+.botonSide {
+    color: white;
+    background-color: #9264de;
+    padding: 2px 12px 2px 12px;
+    border-radius: 4px;
+    margin-bottom: 8px;
+}
+
+.w3-sidebar {
+    background-color:#39e17b;
+    width:30%;
+    margin-top: 0px;
+    margin-left: 0px;
+}
