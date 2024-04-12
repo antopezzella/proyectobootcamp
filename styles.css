@@ -40,7 +40,9 @@ form{
 }
 
 .containerFormulario {
-    display: flex;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
 }
 
 fieldset{
@@ -94,3 +96,5 @@ fieldset{
     margin-top: 0px;
     margin-left: 0px;
 }
+
+.card-body { background-color: #39e17b;}
